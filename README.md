@@ -18,7 +18,7 @@ Make sure to add the .env file to your .gitignore file to keep your API key secr
 ## Installation
 
 1. Clone the repository to your local machine: 
-   - ```add repo here```
+   - ```git@github.com:chayboats/weather-app.git```
 
 2. Navigate to the project directory:
    - ```cd weather-app```
