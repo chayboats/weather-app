@@ -3,6 +3,7 @@ const iconMap = {
   'partly cloudy': 'fa-cloud-sun',
   cloudy: 'fa-cloud',
   clear: 'fa-moon',
+  haze: 'fa-smog',
   overcast: 'fa-smog',
   mist: 'fa-smog',
   fog: 'fa-smog',
