@@ -20,8 +20,7 @@ This is a simple weather app built using React that allows users to search for t
 ### Prerequisites
 You will need to obtain an API key from [World Weather Online](https://www.worldweatheronline.com/weather-api/api/pricing2.aspx). This API key is required to fetch weather data. Once you have the API key, save it in a `.env` file at the root of your project directory.
 
-```js
-env 
+```env 
 REACT_APP_WEATHER_KEY=YOUR_API_KEY_HERE
 ```
 
@@ -54,11 +53,6 @@ Runs the app in the development mode.
 - In the search bar, enter a city or country name to check the weather for that location.
 
 The page will reload when you make changes in the code. *(You may also see any lint errors in the console.)*
-
-###### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ## Technologies Used
 - React
