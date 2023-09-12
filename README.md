@@ -68,7 +68,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - Special thanks to [World Weather Online](https://www.worldweatheronline.com/weather-api/api/docs/local-city-town-weather-api.aspx) for providing the weather data API.
 
 ## Contact Me
+If you have any questions, comments, or suggestions, please don't hesitate to reach out. I'd love to hear from you!
 
-- **Chaley Boatmon**
-- **Email:** chaleyboatmon@gmail.com
-- **Questions or Comments:** If you have any questions, comments, or suggestions, please feel free to reach out to me. I'd love to hear from you!
+**Chaley Boatmon**
+- Email: **<u>chaleyboatmon@gmail.com</u>**
+- GitHub: [<u>**chayboats**</u>](https://github.com/chayboats)
+Thank you for visiting my repository!
