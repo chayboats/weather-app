@@ -20,10 +20,8 @@ export default function determineIcon(description) {
 
   for (const key of Object.keys(iconMap)) {
     if (description.includes('thunder')) {
-      console.log('description')
       return iconMap['thunder'];
     } else if (description.includes(key)) {
-      console.log(description)
       return iconMap[key];
     }
   }

@@ -12,6 +12,7 @@ export default function SearchBar(props) {
         <input
           type="text"
           id="search-input"
+          autoComplete="off"
           value={search}
           onChange={setSearchValue}
           placeholder="Enter a city or country"
