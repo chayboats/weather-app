@@ -1,5 +1,5 @@
 # Weather App 
-![Weather App](weather-app.png)
+![Weather App](weather-app.gif)
 
 This is a simple weather app built using React that allows users to search for the weather conditions in a specific city or country. Users can enter the location they want to check, and the app will display the temperature, humidity, wind speed, and a weather icon for the specified location.
 
