@@ -1,5 +1,6 @@
 # Weather App 
-![Weather App](weather-app.gif)
+
+https://github.com/chayboats/weather-app/assets/107378002/bb019da1-2b91-4f2b-88f9-f6124c53195e
 
 This is a simple weather app built using React that allows users to search for the weather conditions in a specific city or country. Users can enter the location they want to check, and the app will display the temperature, humidity, wind speed, and a weather icon for the specified location.
 
